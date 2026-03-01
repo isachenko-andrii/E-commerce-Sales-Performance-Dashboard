@@ -105,7 +105,6 @@ The dataset used contains the following fields:
 
 ## How to use  
 
- * Clone the repository.
  * Review the ecommerce_dataset.csv file to understand the structure.
  * Follow the link to Looker Studio to interact with filters (date, country, category).
 
