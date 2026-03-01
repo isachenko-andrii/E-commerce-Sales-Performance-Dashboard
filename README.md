@@ -76,7 +76,7 @@ A line graph that displays revenue fluctuations by date, allowing you to identif
  * Top products by revenue and number of orders.  
 
  4. Geography and customer behavior: 
- * Geo Map: Visualization of sales by country (USA, UK, Germany, India, etc.).
+  
  * Device Usage: Analysis of devices from which purchases were made (Mobile, Desktop, Tablet).
  * Payment Methods: Breakdown by payment method (Credit Card, PayPal, COD).
 
