@@ -101,10 +101,17 @@ The dataset used contains the following fields:
 
 ## Visualizations  
 
+ * ​**E-commerce performance and loyalty analytics**  
  ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-2.png)
- ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-3.png)
- ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-4.png)
 
+ * **Dynamics of orders for the reporting period**  
+  
+ ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-3.png)  
+
+ * **Order distribution charts**  
+   
+ ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-4.png)  
+   
 ## How to use  
 
  * Review the [ecommerce_dataset.csv](https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard/blob/main/data/raw/ecommerce_dataset.csv) file to understand the structure.
