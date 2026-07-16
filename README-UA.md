@@ -11,9 +11,9 @@
   
 Цей проект присвячений аналізу роздрібних продажів інтернет-магазину. Мета полягає в візуалізації ключових показників ефективності (KPI), виявленні тенденцій у категоріях товарів та аналізі географії замовлень для прийняття управлінських рішень.  
   
-[Link to interactive dashboard](https://lookerstudio.google.com/u/0/reporting/77b746a6-39e8-41c2-bacc-51662ee9b358)  
+[Посилання на інтерактивну панель керування](https://lookerstudio.google.com/u/0/reporting/77b746a6-39e8-41c2-bacc-51662ee9b358)  
 
-**Технологічний стек**
+## Технологічний стек  
   
 **Інструмент візуалізації:** Google Looker Studio
 **Джерело даних:** [CSV Dataset (E-commerce transactions)](https://drive.google.com/file/d/1crbddZ7lr0ttwX_F0QUdKdPO7z__XojU)  
