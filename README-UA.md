@@ -74,7 +74,7 @@
 * Аналіз ефективності способів оплати в різних регіонах.  
 * Підготовка рекомендацій щодо оптимізації маркетингових зусиль у країнах з низьким показником AOV.  
   
-## Ключові показники та візуалізації  
+## Ключові показники    
   
 Інформаційна панель розділена на логічні блоки, які дозволяють оцінювати ваш бізнес з різних точок зору:  
   
@@ -103,7 +103,21 @@
 **5. Операційні показники**
   
 * Статус доставки (Доставлено, Відправлено, Очікує розгляду, Повернено, Скасовано), що є критично важливим для логістики та аналізу відтоку клієнтів.
+
+  ## Візуалізації    
   
+ * ​**Аналітика ефективності електронної комерції та програм лояльності**
+   
+ ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-2.png)  
+
+ * **Динаміка замовлень за звітний період**  
+  
+ ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-3.png)  
+
+ * **Діаграми розподілу замовлень**  
+   
+ ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-4.png)    
+   
 ## Ключові висновки  
   
 1. Статус замовлення  
@@ -149,20 +163,6 @@
  • США → вирішення проблеми, що очікує на розгляд.  
  • Індія → підтримка позитивної тенденції доставки.  
     
-## Візуалізації    
-  
- * ​**Аналітика ефективності електронної комерції та програм лояльності**
-   
- ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-2.png)  
-
- * **Динаміка замовлень за звітний період**  
-  
- ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-3.png)  
-
- * **Діаграми розподілу замовлень**  
-   
- ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/images/Slide-4.png)    
-   
 ## Як використовувати   
    
 * Перегляньте файл [ecommerce_dataset.csv](https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard/blob/main/data/raw/ecommerce_dataset.csv), щоб зрозуміти його структуру.
