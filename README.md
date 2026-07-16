@@ -1,5 +1,5 @@
 ![Project-logo](https://github.com/isachenko-andrii/E-commerce-sales-analysis/blob/main/Project-logo.png)
-#### [EN](https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard/blob/main/README.md)) | [UA](https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard/blob/main/README-UA.md) This material is also available in Ukrainian.  
+#### [EN](https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard/blob/main/README.md) | [UA](https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard/blob/main/README-UA.md) This material is also available in Ukrainian.  
 ---   
 <div align="center">  
     
